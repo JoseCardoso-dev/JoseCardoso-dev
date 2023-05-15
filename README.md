@@ -3,8 +3,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrcardoso541@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseroberto.exe)
-  
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCardoso-dev&show_icons=true&theme=dracula&count_private=true)
+
+<div style="display: flex;">
+  <a href="https://github.com/JoseCardoso-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseCardoso-dev&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCardoso-dev&layout=compact&theme=dracula" alt="Top Langs" />
+  </a>
+</div>
 
 ## Principais Tecnologias
 
