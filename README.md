@@ -1,15 +1,24 @@
 ## Olá! Eu sou o José 🖐️
 
+#### Com um amor pela tecnologia desde jovem, agora embarcando na jornada de se tornar um desenvolvedor mobile (Flutter). Curioso e dedicado a aprender, estou constantemente buscando novas maneiras de inovar e criar. Sonho em impactar vidas através da minha paixão pela programação. 👨‍💻❤️<br /><br />
+
+🎓 Técnico em Informática - IFBA<br />
+🎓 Graduando do Bacharelado Interdisciplinar em Ciência e Tecnologia com foco em Sistemas de Informação - UFBA
+<br /><br />
+👨‍💻 Developer Trainee na TITAN - Empresa Júnior de Engenharia da Computação da UFBA  [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🌐 Estagiário de Infraestrtura de TI N3 na Sanca Casa da Bahia  [<img  align="center" width="8%" src="https://www.santacasaba.org.br/imagens/lgo_sta_cas_cab.png"/>](https://www.santacasaba.org.br/)
+
+## Você pode me encontra em: 📫
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrcardoso541@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseroberto.exe)
 
 <div style="display: flex;">
   <a href="https://github.com/JoseCardoso-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoseCardoso-dev&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCardoso-dev&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCardoso-dev&layout=compact&theme=dracula" alt="Top Langs" />
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCardoso-dev&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
 </div>
 
