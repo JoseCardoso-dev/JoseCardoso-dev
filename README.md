@@ -1,12 +1,12 @@
 ## Olá! Eu sou o José 🖐️
 
-#### Com um amor pela tecnologia desde jovem, agora embarcando na jornada de se tornar um desenvolvedor mobile (Flutter). Curioso e dedicado a aprender, estou constantemente buscando novas maneiras de inovar e criar. Sonho em impactar vidas através da minha paixão pela programação. 👨‍💻❤️<br /><br />
+#### Com um amor pela tecnologia desde jovem, agora embarcando na jornada de se tornar um desenvolvedor mobile. Curioso e dedicado a aprender, estou constantemente buscando novas maneiras de inovar e criar. Sonho em impactar vidas através da minha paixão pela programação. 👨‍💻❤️<br /><br />
 
 🎓 Técnico em Informática - IFBA<br />
-🎓 Graduando do Bacharelado Interdisciplinar em Ciência e Tecnologia - UFBA
+🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA
 <br /><br />
-👨‍💻 Developer Trainee na TITAN - Empresa Júnior de Engenharia da Computação da UFBA  [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
-🌐 Estagiário de Infraestrtura de TI N3 na Sanca Casa da Bahia  [<img  align="center" width="8%" src="https://www.santacasaba.org.br/imagens/lgo_sta_cas_cab.png"/>](https://www.santacasaba.org.br/)
+👨‍💻 Developer Mobile na TITAN - Empresa Júnior de Engenharia da Computação da UFBA  [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🌐 Estagiário de Infraestrtura de TI na Sanca Casa da Bahia  [<img  align="center" width="8%" src="https://www.santacasaba.org.br/imagens/lgo_sta_cas_cab.png"/>](https://www.santacasaba.org.br/)
 
 ## Você pode me encontra em: 📫
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
