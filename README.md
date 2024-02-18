@@ -5,7 +5,7 @@
 🎓 Técnico em Informática - IFBA<br />
 🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA
 <br /><br />
-👨‍💻 Developer Mobile na TITAN - Empresa Júnior de Engenharia da Computação da UFBA  [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+👨‍💻 Gerente de Desenvolvimento Mobile na TITAN - Empresa Júnior de Computação da UFBA  [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 🌐 Estagiário de Infraestrtura de TI na Sanca Casa da Bahia  [<img  align="center" width="8%" src="https://www.santacasaba.org.br/imagens/lgo_sta_cas_cab.png"/>](https://www.santacasaba.org.br/)
 
 ## Você pode me encontra em: 📫
