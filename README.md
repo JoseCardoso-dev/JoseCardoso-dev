@@ -5,8 +5,8 @@
 🎓 Técnico em Informática - IFBA<br />
 🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA
 <br /><br />
-👨‍💻 Gerente de Desenvolvimento Mobile na TITAN - Empresa Júnior de Computação da UFBA  [<img align="center" width="14%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.60daafdc.svg"/>](https://titanci.com.br)<br />
-📱 Desenvolvedor mobile júnior na Blue [<img  align="center" width="8%" src="https://login.bluenacional.com/img/logo-Blue-Azul.svg"/>](https://www.santacasaba.org.br/)
+👨‍💻 Gerente de Desenvolvimento Mobile na TITAN [<img align="center" width="14%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.60daafdc.svg"/>](https://titanci.com.br)<br />
+📱 Desenvolvedor Mobile Júnior na Blue [<img  align="center" width="8%" src="https://login.bluenacional.com/img/logo-Blue-Azul.svg"/>](https://www.saudeblue.com)
 
 ## Você pode me encontra em: 📫
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
