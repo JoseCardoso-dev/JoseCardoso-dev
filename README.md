@@ -3,13 +3,13 @@
 #### Com um amor pela tecnologia desde jovem, agora embarcando na jornada de se tornar um desenvolvedor mobile. Curioso e dedicado a aprender, estou constantemente buscando novas maneiras de inovar e criar. Sonho em impactar vidas através da minha paixão pela programação. 👨‍💻❤️<br /><br />
 
 🎓 Técnico em Informática - IFBA<br />
-🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA
+🎓 Bacharelando em Ciência e Tecnologia - UFBA
 <br /><br />
 👨‍💻 Gerente de Desenvolvimento Mobile na TITAN [<img align="center" width="12%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.6e751afa.svg"/>](https://titanci.com.br)<br />
 📱 Desenvolvedor Mobile Júnior na Blue [<img  align="center" width="8%" src="https://login.bluenacional.com/img/logo-Blue-Azul.svg"/>](https://www.saudeblue.com)
 
 ## Você pode me encontra em: 📫
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-roberto-cardoso/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-roberto-cardoso/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrcardoso541@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseroberto.exe)
 
