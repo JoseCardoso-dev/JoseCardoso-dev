@@ -5,8 +5,8 @@
 🎓 Técnico em Informática - IFBA<br />
 🎓 Bacharelando em Ciência e Tecnologia - UFBA
 <br /><br />
-👨‍💻 Gerente de Desenvolvimento Mobile na TITAN [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
-📱 Tech Lead na Blue [<img  align="center" width="8%" src="https://login.bluenacional.com/img/logo-Blue-Azul.svg"/>](https://www.saudeblue.com)
+👨‍💻 Pós-júnior da TITAN - [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
+📱 Mobile Developer na Kobe - [<img  align="center" width="8%" src="https://cdn.prod.website-files.com/60bd07d73c02178315cdefc3/683747b1853c8843619b9496_Kobe%20Rebrand.png"/>](https://www.kobe.io/)
 
 ## Você pode me encontra em: 📫
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-roberto-cardoso/)
